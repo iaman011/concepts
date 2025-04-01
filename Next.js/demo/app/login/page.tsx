@@ -1,4 +1,4 @@
-import Loggedin from "@/Components/page"
+import Loggedin from "@/Components/Signin/page"
 
 export default function login(){
     return(

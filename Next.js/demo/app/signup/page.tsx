@@ -1,10 +1,11 @@
+"use client"
+import Signup from "@/Components/Signup/page";
 
-
-export default function Home() {
+export default function Signup01() {
     return (
-      <div>
-        signup
-      </div>
+<div>
+  <Signup />
+</div>
     );
   }
   
