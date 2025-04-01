@@ -20,7 +20,7 @@ export default function signin() {
             <div className="border-2 p-2 m-2 items rounded-2xl bg-amber-200">
               <h2>enter the username</h2>
               <input
-                className="bg-white rounded-2xl p-0.5 mb-1"
+                className="bg-white rounded-1xl p-0.5 mb-1"
                 type="text"
                 placeholder="  enter the username"
                 id="username"
@@ -29,7 +29,7 @@ export default function signin() {
             <div className="border-2 p-2 m-2 items rounded-2xl bg-amber-500">
               <h2>enter the password</h2>
               <input
-                className="bg-white rounded-2xl p-0.5 mb-1"
+                className="bg-white rounded-1xl p-0.5 mb-1"
                 type="text"
                 placeholder="  enter the password"
                 id="password"
